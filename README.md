@@ -6,7 +6,7 @@ Blank Template to add custom Ansible roles to Saltbox.
 1. Install  this repo:
 
     ```bash
-    git clone https://github.com/saltyorg/saltbox_mod.git /opt/saltbox_mod
+    git clone https://github.com/titooo7/saltbox_mod.git /opt/saltbox_mod
     ```
 
     or alternatively :
